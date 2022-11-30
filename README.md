@@ -3,12 +3,12 @@ This is repo for hadoop fundamentals: Hive code
 
 # Introduction:
 We will learn:-
-How to create Cluster on EMR.
-Upload Data in HDFC.
-Create S3 Bucket.
-Hive Basics.
-Insert dataset and Json into Hive Table.
-Partition, buckets, and ORC.
+1. How to create Cluster on EMR.
+2. Upload Data in HDFC.
+3. Create S3 Bucket.
+4. Hive Basics.
+5. Insert dataset and Json into Hive Table.
+6. Partition, buckets, and ORC.
 
 
 # Document for launching cluster on EMR:
