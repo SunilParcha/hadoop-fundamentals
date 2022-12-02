@@ -27,6 +27,8 @@ I have alreay explained basics of Hadoop in this video and PPT: [PPT](https://sh
 
 # How to Launch Hive:
 ➔ You just need to type hive on you EC2 Console.
+
 ➔ Now you will be able to write SQL queries in hive.
+
 ➔ You can check hadoop_fundamental.hql file. I have given Example Queries on that.
 
